@@ -6,6 +6,7 @@ At the moment you'll be required to find th especific frame to start and the pla
 To Change the playhead links, enter the frame count number to start within the index.php
 
 This will activate the video to drop in over your webpage and start the playhead at frame "270" and stop the playhead at frame "407"
+
 onclick="LoadVideo(270,407)
 
 To change the entry point playhead value, change the frame value number, in this case "270".
